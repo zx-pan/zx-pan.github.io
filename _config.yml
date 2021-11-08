@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me - Zixuan Pan"
+title                    : "Zixuan Pan"
 title_separator          : "-"
 name                     : &name "Zixuan Pan"
 description              : &description "personal description"
