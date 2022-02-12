@@ -24,7 +24,7 @@ Awards
   
 Publications
 ======
-* Shunjie Dong, **Zixuan Pan**, Yu Fu, Qianqian Yang, Yuanxue Gao, Tianbai Yu,  Yiyu Shi, Cheng Zhuo, "DeU-Net 2.0: Enhanced Deformable U-Net for 3D Cardiac MRI Video Segmentation," Medical Image Analysis. Under review.
+* Shunjie Dong, **Zixuan Pan**, Yu Fu, Qianqian Yang, Yuanxue Gao, Tianbai Yu,  Yiyu Shi, Cheng Zhuo, "DeU-Net 2.0: Enhanced Deformable U-Net for 3D Cardiac MRI Video Segmentation," Medical Image Analysis. In Print.
 
 Contact
 ======
