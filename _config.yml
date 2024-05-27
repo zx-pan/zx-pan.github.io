@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zixuan Pan"
   avatar           : "profile.png"
-  bio              : "IE Undergraduate student at Zhejiang University"
-  location         : "Hangzhou, Zhejiang, China"
+  bio              : "CS Ph.D. student at University of Notre Dame"
+  location         : "IN, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zxpan.zju@gmail.com"
+  email            : "zpan3@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://zx-pan.github.io/files/cv.pdf"
   bitbucket        : 
