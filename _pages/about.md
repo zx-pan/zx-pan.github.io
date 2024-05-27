@@ -8,25 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student in the Information Science and Electronical Engineeting Department of [Zhejiang University](https://www.zju.edu.cn/english/) . My advisor is [Dr. Cheng zhuo](https://person.zju.edu.cn/en/chengzhuo). 
+I am a second-year Ph.D. student at [University of Notre Dame](https://www.nd.edu), advised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html). I also closely work with Dr. [Jianxu Chen](https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en) (Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V.)
+I received my B.S. with honors from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
-Currently, my research focuses on Deep Learning for Medical Image Applications, and Self-supervised Learning. My past research projects span across the fields of signal processing, biomedical image segmentation, object detection, etc.
+Currently, my research focuses on Deep Learning for Medical Applications and Self-supervised Learning.
 
-Education
-======
-* B.S., Information Engineering, **Zhejiang University**, Hangzhou, 2018 - 2022(expected)
-
-Awards
-======
-* Meritorious (First Prize), International Interdisciplinary Contest in Modeling (ICM), 2021.
-* Zhejiang University Scholarship, 2019-2021.
-* Second Prize, Physics Innovation Competition of Zhejiang Province, 2019.
   
 Publications
 ======
-* Shunjie Dong, **Zixuan Pan**, Yu Fu, Qianqian Yang, Yuanxue Gao, Tianbai Yu,  Yiyu Shi, Cheng Zhuo, "DeU-Net 2.0: Enhanced Deformable U-Net for 3D Cardiac MRI Video Segmentation," Medical Image Analysis. In Print.
+[Google Scholar Profile](https://scholar.google.com/citations?user=3VuW2gcAAAAJ&hl=en)
+* Shunjie Dong, **Zixuan Pan**, Yu Fu, Qianqian Yang, Yuanxue Gao, Tianbai Yu,  Yiyu Shi, Cheng Zhuo, "DeU-Net 2.0: Enhanced Deformable U-Net for 3D Cardiac MRI Video Segmentation," Medical Image Analysis (MIA), 2022
+* Shunjie Dong, **Zixuan Pan**, Yu Fu, Dongwei Xu, Kuangyu Shi, Qianqian Yang, Yiyu Shi, Cheng Zhuo, "Partial Unbalanced Feature Transport for Cross-Modality Cardiac Image Segmentation," in IEEE Transactions on Medical Imaging (TMI), 2023.
+
+
+Awards
+======
+* University of Notre Dame CSE Select Fellowship, 2022
+* Meritorious (First Prize), International Interdisciplinary Contest in Modeling (ICM), 2021.
+* Zhejiang University Scholarship, 2019-2021.
+
+Services
+======
+* Invited reviewer for Scientific Reports
+
 
 Contact
 ======
-* Email: zxpan.zju@gamil.com
-* Location: Yuquan Campus, Zhejiang University, Zhejiang, P.R.China
+* Email: zpan3@nd.edu
