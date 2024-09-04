@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at [University of Notre Dame](https://www.nd.edu), advised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html). I also closely work with Dr. [Jianxu Chen](https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en) (Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V.)
+I am a third-year Ph.D. student at [University of Notre Dame](https://www.nd.edu), advised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html). I also closely work with Dr. [Jianxu Chen](https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en) (Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V.)
 I received my B.S. with honors from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
 Currently, my research focuses on Deep Learning for Medical Applications and Self-supervised Learning.
