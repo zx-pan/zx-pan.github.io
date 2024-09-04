@@ -29,7 +29,9 @@ Awards
 
 Services
 ======
-* Invited reviewer for Scientific Reports
+* Invited reviewer for ICLR 2025
+* Invited reviewer for ICCAD 2024
+* Invited reviewer for Scientific Reports - Nature
 
 
 Contact
