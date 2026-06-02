@@ -1,0 +1,105 @@
+/* Minimal academic homepage — white background, black text */
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111111;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 60px 24px 90px;
+}
+
+a { color: #1a3fb0; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+p { margin: 0 0 1em; }
+
+/* Header */
+.intro h1 {
+  margin: 0 0 4px;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.tagline { margin: 0 0 2px; }
+.affil { margin: 0 0 12px; color: #555; }
+
+.links {
+  font-size: 15.5px;
+  color: #888;
+}
+.links a { font-weight: 600; }
+.links .sep { margin: 0 8px; color: #ccc; }
+
+/* Sections */
+section { margin-top: 38px; }
+
+h2 {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #444;
+  margin: 0 0 14px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+h3 {
+  font-size: 15.5px;
+  font-weight: 700;
+  margin: 22px 0 10px;
+  color: #222;
+}
+
+/* Year–description entry lists (Education, Experience, Awards) */
+.entries { list-style: none; margin: 0; padding: 0; }
+.entries li {
+  display: flex;
+  gap: 18px;
+  margin-bottom: 12px;
+}
+.entries .date {
+  flex: 0 0 132px;
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}
+.entries .body { flex: 1; }
+.entries .detail { color: #555; font-size: 15px; }
+
+/* Publications */
+.pubs { list-style: none; margin: 0; padding: 0; }
+.pubs li { margin-bottom: 15px; }
+.pubs .title { display: block; font-weight: 600; }
+.pubs .authors { display: block; font-size: 15px; }
+.pubs .authors b { font-weight: 700; }
+.pubs .meta { display: block; font-size: 14px; color: #777; }
+
+/* Footer */
+footer {
+  margin-top: 52px;
+  padding-top: 18px;
+  border-top: 1px solid #e6e6e6;
+  font-size: 14px;
+  color: #888;
+}
+footer a { color: #888; }
+
+/* Responsive */
+@media (max-width: 600px) {
+  main { padding: 38px 20px 70px; }
+  .intro h1 { font-size: 26px; }
+  .entries li { flex-direction: column; gap: 2px; }
+  .entries .date { flex-basis: auto; }
+}
