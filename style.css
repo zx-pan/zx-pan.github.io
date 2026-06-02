@@ -71,12 +71,13 @@ h3 {
   margin-bottom: 12px;
 }
 .entries .date {
-  flex: 0 0 132px;
+  flex: 0 0 170px;
+  white-space: nowrap;
   color: #777;
   font-variant-numeric: tabular-nums;
 }
 .entries .body { flex: 1; }
-.entries .detail { color: #555; font-size: 15px; }
+.entries .detail { display: block; margin-top: 2px; color: #555; font-size: 15px; }
 
 /* Publications */
 .pubs { list-style: none; margin: 0; padding: 0; }
