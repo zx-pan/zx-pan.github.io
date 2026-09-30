@@ -86,6 +86,7 @@ h3 {
 .pubs .authors { display: block; font-size: 15px; }
 .pubs .authors b { font-weight: 700; }
 .pubs .meta { display: block; font-size: 14px; color: #777; }
+.pubnote { margin: 4px 0 0; font-size: 14px; color: #777; }
 
 /* Footer */
 footer {
