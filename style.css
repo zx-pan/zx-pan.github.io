@@ -76,7 +76,17 @@ h3 {
   color: #777;
   font-variant-numeric: tabular-nums;
 }
-.entries .body { flex: 1; }
+.entries .body { flex: 1; min-width: 0; }
+.entries .role { display: block; font-weight: 600; }
+.entries .org {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: 16px;
+  color: #333;
+}
+.entries .place { color: #777; font-size: 15px; white-space: nowrap; }
 .entries .detail { display: block; margin-top: 2px; color: #555; font-size: 15px; }
 
 /* Publications */
